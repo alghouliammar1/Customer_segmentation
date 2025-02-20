@@ -1,6 +1,6 @@
 **Customer Classification Based on Purchasing Behavior**
 
-This project, titled **Project A**, leveraged my skills in **Unsupervised Machine Learning** to classify customers based on their purchasing behavior over a specific period. The primary goal was to analyze and segment customers into distinct groups to better understand their buying patterns, which can inform targeted marketing strategies, personalized recommendations, and improved customer engagement.
+This project, titled **Customer_segmentation**, leveraged my skills in **Unsupervised Machine Learning** to classify customers based on their purchasing behavior over a specific period. The primary goal was to analyze and segment customers into distinct groups to better understand their buying patterns, which can inform targeted marketing strategies, personalized recommendations, and improved customer engagement.
 
 ### Key Components of the Project:
 
